@@ -1,5 +1,11 @@
 {
-  "name": "ultra-private-test",
+  "name": "@nachoaldamav/ultra-private-test",
+  "repository": {
+    "url": "https://github.com/nachoaldamav/ultra-private-test"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
